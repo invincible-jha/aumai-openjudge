@@ -5,8 +5,9 @@ from __future__ import annotations
 from pydantic import BaseModel, Field
 
 LEGAL_DISCLAIMER = (
-    "This tool does not provide legal advice."
-    " Consult a qualified legal professional."
+    "This tool does NOT provide legal advice."
+    " Case analysis is based on keyword matching and may be incomplete or inaccurate."
+    " Always consult a qualified legal professional."
 )
 
 __all__ = ["LegalSection", "CaseAnalysis", "LegalMapping", "LEGAL_DISCLAIMER"]

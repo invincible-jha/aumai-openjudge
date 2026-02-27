@@ -1,0 +1,4 @@
+# file: M:\Project DarkMatter\workspace\aumai-openjudge\src\aumai_openjudge\cli.py
+# hypothesis_version: 6.151.9
+
+[8000, '--host', '--port', '127.0.0.1', 'Host to bind to', 'Port to serve on', '__main__', 'serve']
